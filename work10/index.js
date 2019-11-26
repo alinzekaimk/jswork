@@ -8,7 +8,7 @@ function monkey(){
         return
     }
     let monkey=[]
-    for (let i=1;i<=total;i++){
+    for (let i=1;i<=total;i++ ){
         monkey.push(i)
     }
     let i=0
